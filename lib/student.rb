@@ -1,10 +1,8 @@
 class Student
-
   def hello
-    "Hey there! I'm so excited to learn stuff."
+    "Hello"
   end
-
   def raise_hand
-    10.times puts "Pick me!"
+    "Pick me!"
   end
 end
